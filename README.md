@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Miyabi House Logo](public/decorative/bowl.png)
+![Miyabi House Logo](https://github.com/user-attachments/assets/ccf364fd-a070-4f22-8db4-4606b549cde7)
 
 **A sophisticated, full-featured Japanese restaurant website built with Next.js 15 and modern web technologies**
 
@@ -11,7 +11,7 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0-ff69b4?style=for-the-badge&logo=framer)](https://www.framer.com/motion/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-[Live Demo](https://miyabi-house.vercel.app) • [Features](#features) • [Installation](#installation) • [Documentation](#documentation)
+[Live Demo]() • [Features](#features) • [Installation](#installation) • [Documentation](#documentation)
 
 </div>
 
@@ -327,8 +327,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Hakan Gök**
 - GitHub: [@hakangokdev](https://github.com/hakangokdev)
-- Website: [Your Website](https://www.hakangok.tech/)
-- Email: [your.email@example.com](mailto:gokhakan42@gmail.com)
+- Website: [hakangok.tech](https://www.hakangok.tech/)
+- Email: [gokhakan42@mgmail.com](mailto:gokhakan42@gmail.com)
 
 ## 🙏 Acknowledgments
 
