@@ -11,8 +11,6 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0-ff69b4?style=for-the-badge&logo=framer)](https://www.framer.com/motion/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-[Live Demo]() • [Features](#features) • [Installation](#installation) • [Documentation](#documentation)
-
 </div>
 
 ## 🌟 Overview
