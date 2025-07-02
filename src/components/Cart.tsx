@@ -6,8 +6,10 @@ import { colors } from '@/constants/colors';
 import { typography } from '@/constants/typography';
 import { useCart } from '@/context/CartContext';
 import Image from 'next/image';
+import { useRouter } from 'next/navigation';
 
 const Cart = () => {
+  const router = useRouter();
   const {
     items,
     isCartOpen,
@@ -36,6 +38,11 @@ const Cart = () => {
 
   const formatPrice = (price: number) => {
     return `$${price.toFixed(2)}`;
+  };
+
+  const handleCheckout = () => {
+    closeCart();
+    router.push('/checkout');
   };
 
   return (
@@ -372,6 +379,7 @@ const Cart = () => {
 
                 {/* Checkout Button */}
                 <motion.button
+                  onClick={handleCheckout}
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
                   className="w-full py-4 rounded-full"
